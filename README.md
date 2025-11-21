@@ -135,7 +135,7 @@
 	- [普通话考试](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%80%83%E7%BA%A7%E8%80%83%E8%AF%81%E8%80%83%E7%A0%94/%E6%99%AE%E9%80%9A%E8%AF%9D%E8%80%83%E8%AF%95)
 	- [英语四级CET-4]（）
 
-![image](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/.lib/Picture/README/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6.jpg)
+
 
 ## 苏大材化学习时光（Unfinished）
 	
@@ -159,3 +159,8 @@
 材化部的军训向来是很水的，~~尤其是22级的军训，总共训了一周的时间，半周还在下大暴雨（bushi）~~，军训时只要你不要打教官，都可以过，而且由于军训是等级制课程，对你未来的评奖评优/保研没有太大影响。
 
 </details>
+
+
+
+
+![image](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/.lib/Picture/README/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6.jpg)
