@@ -31,7 +31,7 @@
 - 专业选修课程
 
 	- 无机合成化学
-	- 高等仪器分析
+	- [高等仪器分析](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E9%AB%98%E7%AD%89%E4%BB%AA%E5%99%A8%E5%88%86%E6%9E%90)
 	- 化学专业英语
 	- 电化学及电分析
 	- [材料化学](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99%E5%8C%96%E5%AD%A6)
