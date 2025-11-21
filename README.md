@@ -60,7 +60,7 @@
 	- 军事技能
 	- 中国近现代史纲要
 	- 形式与政策
-	- 公共体育
+	- [公共体育](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%85%AC%E5%85%B1%E4%BD%93%E8%82%B2)
 	- 高等数学
 	- 计算机信息技术（计算思维）
 	- 大学生心理健康教育
