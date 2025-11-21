@@ -33,7 +33,7 @@
 	- 高等仪器分析
 	- 化学专业英语
 	- 电化学及电分析
-	- 材料化学
+	- [材料化学](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99%E5%8C%96%E5%AD%A6)
 	- 现代有机合成新技术
 	- 中级无机化学
 	- 现代化学与研究方法
@@ -94,12 +94,12 @@
 
 ## 苏大材化资料
 
-- 材化部推荐免试研究生
+- [材化部推荐免试研究生](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%B5%84%E6%96%99/%E6%9D%90%E5%8C%96%E9%83%A8%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%A0%94%E7%A9%B6%E7%94%9F)
 - 材化部推荐入党积极分子
-- 材化部转专业
-- 材化部选课
-- 就业求职简历模板
-- 课程PPT汇报模板
+- [材化部转专业](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%B5%84%E6%96%99/%E6%9D%90%E5%8C%96%E9%83%A8%E8%BD%AC%E4%B8%93%E4%B8%9A)
+- [材化部选课](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%B5%84%E6%96%99/%E6%9D%90%E5%8C%96%E9%83%A8%E9%80%89%E8%AF%BE)
+- [就业求职简历模板](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%B5%84%E6%96%99/%E5%B0%B1%E4%B8%9A%E6%B1%82%E8%81%8C%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
+- [课程PPT汇报模板](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%B5%84%E6%96%99/%E8%AF%BE%E7%A8%8BPPT%E6%B1%87%E6%8A%A5%E6%A8%A1%E6%9D%BF)
 
 ***
 
