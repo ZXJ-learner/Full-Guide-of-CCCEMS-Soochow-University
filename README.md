@@ -131,6 +131,9 @@
 
 - 考级考证考研
 
+	- [普通话考试](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%80%83%E7%BA%A7%E8%80%83%E8%AF%81%E8%80%83%E7%A0%94/%E6%99%AE%E9%80%9A%E8%AF%9D%E8%80%83%E8%AF%95)
+	- [英语四级CET-4]（）
+
 
 
 ## 苏大材化学习时光（Unfinished）
