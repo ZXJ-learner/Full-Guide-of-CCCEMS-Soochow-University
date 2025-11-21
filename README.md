@@ -162,5 +162,4 @@
 
 
 
-
-![image](https://n.sinaimg.cn/spider20220223/88/w1080h608/20220223/6bd5-5bde6a0b4935d763aa1bba49a8ab85f9.jpg)
+*** 养天地正气 法古今完人 ***
