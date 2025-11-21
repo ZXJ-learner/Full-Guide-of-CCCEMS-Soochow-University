@@ -22,7 +22,7 @@
 - 专业必修课程
 	
 	- 高分子化学（一）（双语）
-	- 结构化学（一）
+	- [结构化学（一）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%BB%93%E6%9E%84%E5%8C%96%E5%AD%A6%EF%BC%88%E4%B8%80%EF%BC%89)
 	- 化工基础
 	- 综合实验
 	- 毕业设计
