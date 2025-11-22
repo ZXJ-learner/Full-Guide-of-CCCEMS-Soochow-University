@@ -57,7 +57,7 @@
 
 	- [改革开放史](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2)
 	- [英语高级视听](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%8B%B1%E8%AF%AD%E9%AB%98%E7%BA%A7%E8%A7%86%E5%90%AC)
-	- 翻译与英语写作
+	- [翻译与英语写作](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%BF%BB%E8%AF%91%E4%B8%8E%E8%8B%B1%E8%AF%AD%E5%86%99%E4%BD%9C)
 	- 军事技能
 	- 中国近现代史纲要
 	- 形式与政策
