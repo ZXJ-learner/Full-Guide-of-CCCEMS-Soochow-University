@@ -44,7 +44,7 @@
 
 	- [文献检索](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2)
 	- [化学品安全与人类健康](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%8C%96%E5%AD%A6%E5%93%81%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%BA%E7%B1%BB%E5%81%A5%E5%BA%B7)
-	- 计算机在化学化工及材料中的应用
+	- [计算机在化学化工及材料中的应用](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9C%A8%E5%8C%96%E5%AD%A6%E5%8C%96%E5%B7%A5%E5%8F%8A%E6%9D%90%E6%96%99%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8)
 
 - 通识选修课程（**文学与艺术类课程不少于2学分**）
 	
