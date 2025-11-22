@@ -42,7 +42,7 @@
 
 - 跨专业选修课程
 
-	- 文献检索
+	- [文献检索](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2)
 	- 化学品安全与人类健康
 	- 计算机在化学化工及材料中的应用
 
