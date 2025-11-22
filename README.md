@@ -49,7 +49,7 @@
 - 通识选修课程（**文学与艺术类课程不少于2学分**）
 	
 	- [化学物质中毒](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8%E4%B8%AD%E6%AF%92)
-	- 生物安全与人类健康
+	- [生物安全与人类健康](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%94%9F%E7%89%A9%E5%AE%89%E5%85%A8%E4%B8%8E%E4%BA%BA%E7%B1%BB%E5%81%A5%E5%BA%B7)
 	- 生命与死亡的隧道
 	- 摄影艺术欣赏与创作
 
