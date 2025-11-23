@@ -63,7 +63,7 @@
 	- [形势与政策](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96)
 	- [公共体育](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%85%AC%E5%85%B1%E4%BD%93%E8%82%B2)
 	- [高等数学](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6)
-	- 计算机信息技术（计算思维）
+	- [计算机信息技术（计算思维）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%EF%BC%88%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4%EF%BC%89)
 	- 大学生心理健康教育
 	- 英语报刊选读
 	- 思想道德与法治
