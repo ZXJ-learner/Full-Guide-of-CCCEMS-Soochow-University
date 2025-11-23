@@ -62,7 +62,7 @@
 	- [中国近现代史纲要](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81)
 	- [形势与政策](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%96)
 	- [公共体育](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%85%AC%E5%85%B1%E4%BD%93%E8%82%B2)
-	- 高等数学
+	- [高等数学](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6)
 	- 计算机信息技术（计算思维）
 	- 大学生心理健康教育
 	- 英语报刊选读
@@ -140,25 +140,30 @@
 ## 苏大材化学习时光（Unfinished）
 	
 - 大一上学期
-<details>
 
-<summary>
-开学竞选班委
-</summary>
+	- 班委竞选
+	- 新生军训
 
-材化部大一开学竞选班委是决定大一上学期能否推优（推荐入党积极分子）的关键，一个主要班委（班长/团支书）的身份可以帮你快速熟悉班级的各项事务并享有优先权。
+- 大一下学期
 
-</details>
+	- 转专业
 
-<details>
+- 大二上学期
 
-<summary>
-新生军训
-</summary>
+	-
 
-材化部的军训向来是很水的，~~尤其是22级的军训，总共训了一周的时间，半周还在下大暴雨（bushi）~~，军训时只要你不要打教官，都可以过，而且由于军训是等级制课程，对你未来的评奖评优/保研没有太大影响。
+- 大二下学期
 
-</details>
+	-
+
+- 大三上学期
+
+	-
+
+- 大三下学期
+
+	-
+
 
 ***
 
