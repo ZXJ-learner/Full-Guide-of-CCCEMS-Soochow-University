@@ -142,7 +142,6 @@
 - 大一上学期
 
 	- [材化部基本常识][CCCEMSbasic]
-	[CCCEMSbasic]:
 	- [班委竞选](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/%E6%9D%90%E5%8C%96%E9%83%A8%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E7%8F%AD%E5%A7%94%E7%AB%9E%E9%80%89.md)
 	- 新生军训
 
@@ -178,5 +177,5 @@
 
 [***养天地正气 法古今完人***][Website_cccems]
 
-
 [Website_cccems]: https://chemistry.suda.edu.cn
+[CCCEMSbasic]: https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/%E6%9D%90%E5%8C%96%E9%83%A8%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E6%9D%90%E5%8C%96%E9%83%A8%E5%9F%BA%E6%9C%AC%E5%B8%B8%E8%AF%86.md
