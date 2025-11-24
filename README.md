@@ -152,8 +152,11 @@
 
 ## 友情感谢
 
-本开源项目中部分课程资料来源于 @SimonDiana 的项目 [CCCEMS-Test](https://github.com/SimonDiana/CCCEMS-Test.git)
-以及 QQ群：苏大化学资料分享群
+- 本项目部分课程资料来源于 @SimonDiana 的项目 [CCCEMS-Test](https://github.com/SimonDiana/CCCEMS-Test.git)
+
+- 本项目部分课程资料来源于 QQ群：化学应化资料分享群
+
+- 感谢
 
 ***
 
