@@ -82,7 +82,7 @@
 
 - 大类基础课程
 	
-	- 无机化学实验
+	- [无机化学实验](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%97%A0%E6%9C%BA%E5%8C%96%E5%AD%A6%E5%AE%9E%E9%AA%8C)
 	- 无机化学
 	- 有机化学
 	- 分析化学实验
