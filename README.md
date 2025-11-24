@@ -73,7 +73,7 @@
 	- [英语高级口语](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%8B%B1%E8%AF%AD%E9%AB%98%E7%BA%A7%E5%8F%A3%E8%AF%AD)
 	- [英语影视欣赏](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%8B%B1%E8%AF%AD%E5%BD%B1%E8%A7%86%E6%AC%A3%E8%B5%8F)
 	- [普通物理实验](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C)
-	- 跨文化交际
+	- [跨文化交际](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%B7%A8%E6%96%87%E5%8C%96%E4%BA%A4%E9%99%85)
 	- 中国特色文化英语教学
 	- 马克思主义基本原理
 	- 军事理论
