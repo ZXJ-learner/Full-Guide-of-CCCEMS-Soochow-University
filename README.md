@@ -74,10 +74,10 @@
 	- [英语影视欣赏](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%8B%B1%E8%AF%AD%E5%BD%B1%E8%A7%86%E6%AC%A3%E8%B5%8F)
 	- [普通物理实验](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C)
 	- [跨文化交际](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%B7%A8%E6%96%87%E5%8C%96%E4%BA%A4%E9%99%85)
-	- 中国特色文化英语教学
-	- 马克思主义基本原理
-	- 军事理论
-	- 习近平新时代中国特色社会主义思想概论
+	- [中国特色文化英语教学](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E6%96%87%E5%8C%96%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6)
+	- [马克思主义基本原理](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86)
+	- [军事理论](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA)
+	- [习近平新时代中国特色社会主义思想概论](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA)
 	- 健康标准测试
 
 - 大类基础课程
