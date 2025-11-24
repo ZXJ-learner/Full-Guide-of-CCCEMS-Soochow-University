@@ -152,11 +152,11 @@
 
 ## 友情感谢
 
-- 本项目部分课程资料来源于 @SimonDiana 的项目 [CCCEMS-Test](https://github.com/SimonDiana/CCCEMS-Test.git)
+- 本项目部分课程资料来源于 [@SimonDiana](https://github.com/SimonDiana) 的项目 [CCCEMS-Test](https://github.com/SimonDiana/CCCEMS-Test.git)
 
 - 本项目部分课程资料来源于 QQ群：化学应化资料分享群
 
-- 感谢
+- 感谢 [@Michael Qian (Qi Qian, 钱奇)](https://github.com/MichaelQian0517) 的项目 [SUDA_WiFi Linux 登陆组件](https://github.com/MichaelQian0517/SUDA_WiFi) 帮助我在Linux下登录SUDA_WiFi
 
 ***
 
