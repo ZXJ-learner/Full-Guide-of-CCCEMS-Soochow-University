@@ -83,7 +83,7 @@
 - 大类基础课程
 	
 	- [无机化学实验](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%97%A0%E6%9C%BA%E5%8C%96%E5%AD%A6%E5%AE%9E%E9%AA%8C)
-	- 无机化学
+	- [无机化学](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%97%A0%E6%9C%BA%E5%8C%96%E5%AD%A6)
 	- 有机化学
 	- 分析化学实验
 	- 有机化学实验
@@ -107,33 +107,15 @@
 ## 苏大材化书籍推荐
 
 - 自然科学类
-	- 化学专业相关
-		
-		- 无机化学
 
-			- Inorganic Chemistry
-			- 元素化学（格林伍德）（全三册）
+	- [高数专业相关](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E7%B1%BB/%E9%AB%98%E6%95%B0%E4%B8%93%E4%B8%9A%E7%9B%B8%E5%85%B3)
+	- [化学专业相关]
 	
-		- 分析化学
-		- 化工原理
-		- 化学原理
-		- 计算化学
-		- 量子化学
-		- 物理化学
-		- 有机化学
-	
-	- 高数专业相关
-		
-	- 生物专业相关
-
-	- 物理专业相关
-
-	- 研究前沿报告
 
 - 考级考证考研
 
 	- [普通话考试](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%80%83%E7%BA%A7%E8%80%83%E8%AF%81%E8%80%83%E7%A0%94/%E6%99%AE%E9%80%9A%E8%AF%9D%E8%80%83%E8%AF%95)
-	- [英语四级CET-4]（）
+	
 
 
 
