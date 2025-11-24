@@ -70,9 +70,9 @@
 	- [思想政治理论课实践](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE%E5%AE%9E%E8%B7%B5)
 	- [普通物理](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86)
 	- [程序设计及应用（Python）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%BA%94%E7%94%A8%EF%BC%88Python%EF%BC%89)
-	- 英语高级口语
-	- 英语影视欣赏
-	- 普通物理实验
+	- [英语高级口语](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%8B%B1%E8%AF%AD%E9%AB%98%E7%BA%A7%E5%8F%A3%E8%AF%AD)
+	- [英语影视欣赏](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%8B%B1%E8%AF%AD%E5%BD%B1%E8%A7%86%E6%AC%A3%E8%B5%8F)
+	- [普通物理实验](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C)
 	- 跨文化交际
 	- 中国特色文化英语教学
 	- 马克思主义基本原理
