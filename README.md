@@ -69,7 +69,7 @@
 	- [思想道德与法治](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB)
 	- [思想政治理论课实践](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE%E5%AE%9E%E8%B7%B5)
 	- [普通物理](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86)
-	- [程序设计及应用（Python）]
+	- [程序设计及应用（Python）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%BA%94%E7%94%A8%EF%BC%88Python%EF%BC%89)
 	- 英语高级口语
 	- 英语影视欣赏
 	- 普通物理实验
