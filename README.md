@@ -109,13 +109,13 @@
 - 自然科学类
 
 	- [高数专业相关](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E7%B1%BB/%E9%AB%98%E6%95%B0%E4%B8%93%E4%B8%9A%E7%9B%B8%E5%85%B3)
-	- [化学专业相关]
-	- [物理专业相关]
+	- [化学专业相关](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E7%B1%BB/%E5%8C%96%E5%AD%A6%E4%B8%93%E4%B8%9A%E7%9B%B8%E5%85%B3)
+	- [物理专业相关](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E7%B1%BB/%E7%89%A9%E7%90%86%E4%B8%93%E4%B8%9A%E7%9B%B8%E5%85%B3)
 
 - 考级考证考研
 
 	- [普通话考试](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%80%83%E7%BA%A7%E8%80%83%E8%AF%81%E8%80%83%E7%A0%94/%E6%99%AE%E9%80%9A%E8%AF%9D%E8%80%83%E8%AF%95)
-	- [英语六级（CET-6）]
+	- [英语六级（CET-6）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%80%83%E7%BA%A7%E8%80%83%E8%AF%81%E8%80%83%E7%A0%94/%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%EF%BC%88CET-6%EF%BC%89)
 
 
 
@@ -125,7 +125,7 @@
 
 	- [材化部基本常识][CCCEMSbasic]
 	- [班委竞选](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/%E6%9D%90%E5%8C%96%E9%83%A8%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E7%8F%AD%E5%A7%94%E7%AB%9E%E9%80%89.md)
-	- 新生军训
+	- [新生军训](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/%E6%9D%90%E5%8C%96%E9%83%A8%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E6%96%B0%E7%94%9F%E5%86%9B%E8%AE%AD.md)
 
 - 大一下学期
 
