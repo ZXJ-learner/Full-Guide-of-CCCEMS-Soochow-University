@@ -135,7 +135,7 @@
 
 - 大一下学期
 
-	- 材化部转专业
+	- [材化部转专业](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/%E6%9D%90%E5%8C%96%E9%83%A8%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E4%B8%80%E4%B8%8B%E5%AD%A6%E6%9C%9F/%E6%9D%90%E5%8C%96%E9%83%A8%E8%BD%AC%E4%B8%93%E4%B8%9A.md)
 	- 联系老师进课题组
 	- 材化部换宿舍
 
