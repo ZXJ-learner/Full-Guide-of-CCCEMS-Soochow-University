@@ -39,6 +39,7 @@
 	- [中级无机化学](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E4%B8%AD%E7%BA%A7%E6%97%A0%E6%9C%BA%E5%8C%96%E5%AD%A6)
 	- [现代化学与研究方法](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%AD%A6%E4%B8%8E%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95)
 	- [量子化学基础](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%E5%9F%BA%E7%A1%80)
+	- [绿色化学（英语强化）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%BB%BF%E8%89%B2%E5%8C%96%E5%AD%A6-%E8%8B%B1%E6%96%87)
 
 - 跨专业选修课程
 
@@ -126,7 +127,7 @@
 	- [材化部基本常识][CCCEMSbasic]
 	- [班委竞选](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/%E6%9D%90%E5%8C%96%E9%83%A8%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E7%8F%AD%E5%A7%94%E7%AB%9E%E9%80%89.md)
 	- [新生军训](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/%E6%9D%90%E5%8C%96%E9%83%A8%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E6%96%B0%E7%94%9F%E5%86%9B%E8%AE%AD.md)
-	- 社团及学生组织
+	- [社团及学生组织](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/%E6%9D%90%E5%8C%96%E9%83%A8%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E7%A4%BE%E5%9B%A2%E5%8F%8A%E5%AD%A6%E7%94%9F%E7%BB%84%E7%BB%87.md)
 	- 志愿活动换志愿时长
 	- 教务系统选课
 	- 英语四六级考试
