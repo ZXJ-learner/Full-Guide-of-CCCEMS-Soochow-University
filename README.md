@@ -177,5 +177,7 @@
 
 [***养天地正气 法古今完人***][Website_cccems]
 
+![image](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/.lib/Picture/README/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%81%B0%E8%89%B2%E5%B0%8Flogo.png)
+
 [Website_cccems]: https://chemistry.suda.edu.cn
 [CCCEMSbasic]: https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/%E6%9D%90%E5%8C%96%E9%83%A8%E5%AD%A6%E4%B9%A0/%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E6%9D%90%E5%8C%96%E9%83%A8%E5%9F%BA%E6%9C%AC%E5%B8%B8%E8%AF%86.md
