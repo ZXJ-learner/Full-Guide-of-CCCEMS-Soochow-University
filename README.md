@@ -171,6 +171,8 @@
 
 - 感谢 [@Michael Qian (Qi Qian, 钱奇)](https://github.com/MichaelQian0517) 的项目 [SUDA_WiFi Linux 登陆组件](https://github.com/MichaelQian0517/SUDA_WiFi) 帮助我在Linux下登录SUDA_WiFi
 
+- 感谢 [ZXJ-learner](https://github.com/ZXJ-learner) 提供英语强化班的课程资料
+
 ***
 
 [***养天地正气 法古今完人***][Website_cccems]
