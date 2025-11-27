@@ -169,6 +169,8 @@
 
 - 本项目部分课程资料来源于 QQ群：化学应化资料分享群
 
+- 本项目转专业部分的资料来源于高歌学长 [@Ge Gao](https://github.com/Snowflyt) 的项目 [苏州大学 计算机学院转专业指南](https://github.com/suda-major-change/SUDA-major-change-guide-CS) 和 [苏州大学 转专业通用指南](https://github.com/suda-major-change/SUDA-major-change-guide-universal)
+
 - 感谢 [@Michael Qian (Qi Qian, 钱奇)](https://github.com/MichaelQian0517) 的项目 [SUDA_WiFi Linux 登陆组件](https://github.com/MichaelQian0517/SUDA_WiFi) 帮助我在Linux下登录SUDA_WiFi
 
 - 感谢 [ZXJ-learner](https://github.com/ZXJ-learner) 提供英语强化班的课程资料
