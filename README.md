@@ -1,4 +1,4 @@
-![image](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/.lib/Picture/README/%E8%8B%8F%E5%A4%A7%E6%9D%90%E5%8C%96.jpg)
+![image](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/.lib/Picture/README/%E8%8B%8F%E5%A4%A7%E6%9D%90%E5%8C%96%E5%AE%98%E7%BD%91logo.png)
 
 # 苏州大学材料与化学化工学部完全指南
 
